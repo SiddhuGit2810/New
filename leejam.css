@@ -1,0 +1,118 @@
+
+
+body header{
+    
+    background-image: linear-gradient(to bottom, #000,#000) !important;
+} 
+
+#msgarea{
+    /* background-image: linear-gradient(to bottom,#fff, #fff); */
+    background-color: #fff !important;
+    color: #000;
+    /* opacity: 2; */
+    /* background-color: #046a38; */
+    /* display: none; */
+}
+textarea{
+    padding: 30px;
+}
+#msgarea::placeholder{
+    color: black;
+}
+.win_close{
+    background-image: -webkit-linear-gradient(90deg, #dd052b 0, #dd052b 100%);
+}
+#conversationoption{
+    display: grid;
+    justify-items: stretch;
+    justify-content: end;
+
+
+}
+
+ .choose {
+    border-radius: 5px;
+    text-align: center;
+   
+} 
+.choose:hover{
+    opacity: .6;  
+}
+
+span.co
+.siqembed{
+    border: solid 2px;
+}
+.content{
+    background-image: url(https://raw.githubusercontent.com/Rajeshkumar-Murugan/Zen-Assignment-Day-14-task-newspaper-2-/main/Chatbot_elements-01.png);
+    background-size: cover; 
+    /* background-attachment: fixed; */
+    background-position: c;
+    
+  
+}
+
+.usrinpt{
+    opacity: .7;
+}
+.infomsg.chtend:before, .usrinpt::before{
+    /* background-image: -webkit-linear-gradient(top, #3b3a39 0px, #3b3a39 100%) !important; */
+    opacity: .7;
+}
+.siq-chat-attender-name{
+    font-weight: 100 !important;
+    text-transform: uppercase !important;
+}
+.siq-info-message{
+    color:#fff !important;
+}
+div.infomsg.chtend.siq-info-message a{
+    color:#8A0551 !important;
+    font-weight: 900 !important;
+}
+.chtlnks .sqico-smailico::before {
+    color: #8A0551 !important;
+}
+.siq-user-name{
+    text-indent:-9999px;
+    color: #fff !important;
+}
+  .siq-user-name:before {
+    text-indent:0;
+    content:'FT ChatBot';
+    float:left;
+  }
+.sqico-user{
+    border: solid 2.5px white; 
+}
+.siq-visitor-name{
+    color: #fff !important;
+}
+div.msgbx{
+  /* background-color: #8A0551 !important; */
+  color: #fff !important;
+}
+.cmpnt-desc{
+    color: #000 !important;
+}
+.siq-message.siq-user-message{
+    font-weight: 600 !important;
+
+}
+ul#mraction.mraction.shwact{
+    background-color: #000 !important;
+
+}
+.mraction li{
+    color: #fff !important;
+}
+.mraction li:before{
+    color: #fff;
+}
+.ziq_msg .msgbx:last-child{
+    opacity: .5;
+    color: #000 !important;
+}
+.disply_cel {
+    padding: 0 18px 0px 18px;   
+}
